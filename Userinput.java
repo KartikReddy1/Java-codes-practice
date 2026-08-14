@@ -9,6 +9,7 @@ public class Userinput {
         System.out.println("What is your age");
         int age = scanner.nextInt();
         System.out.println("thanks for the information");
+        scanner.close();
         
     }
     
