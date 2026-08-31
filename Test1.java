@@ -20,6 +20,8 @@ public class Test1 {
         System.out.println(t1.add());
         System.out.println(t2.add());
         System.out.println(t3.add());
+
+        
     }
 
     public int add() {
