@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Square {
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -13,3 +14,4 @@ public class Square {
         System.out.println("Square = " + square);
     }
 }
+
