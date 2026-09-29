@@ -1,3 +1,4 @@
+//1. Print the sum of the elements of a multidimensional array
 public class Array1 {
     public static void main(String[] args) {
         int[][] arr = {
