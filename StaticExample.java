@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class StaticExample {
-    int number;
+    static int number;
     public static void main(String[] args) {
         
         StaticExample SE1 = new StaticExample();
@@ -16,6 +16,10 @@ public class StaticExample {
         System.out.println(SE1.number);
         System.out.println(SE2.number);
         System.out.println(SE3.number);
+
+        System.out.println(StaticExample.number);
+
+        
 
 
 
