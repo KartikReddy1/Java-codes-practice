@@ -2,7 +2,7 @@
 public class StringExample4 {
     public static void main(String[] args) {
 
-        String s1 = "HEllo World";
+        String s1 = "HEllo Worldgit";
         String s2 = "hello";
         String s3 = "HELLO";
 
